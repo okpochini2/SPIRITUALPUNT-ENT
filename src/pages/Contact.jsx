@@ -5,8 +5,8 @@ export default function Contact() {
   <h1>Contact Us</h1>
   <img src={img} alt="contact" />
 
-  <p>Email:okpochiniStanley21@gmail.com</p>
-  <p> whatsapp:2347058162983, 2347039433193</p>
+  <p>Email:okpochinistanley21@gmail.com</p>
+  <p> whatsapp:+2347058162983, +2347039433193</p>
   <p><a href="https://t.me/spiritualpuntenterprenuership">TELEGRAM CHANNEL</a></p>
 
   <form className="contact-form">

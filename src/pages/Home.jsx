@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
   <div className="page">
   <h1>Welcome to Spiritualpunt Enterprise</h1>
   <p>
-    Your trusted platform for sporty sport predictions & analysis.
+    Your trusted platform for sport predictions & analysis.
   </p>
 
     <Link to="services">

@@ -54,6 +54,7 @@ body {
 
 .logoBox img {
   width: 40px;
+  border-radius: 50%;
 }
 
 .logoBox h2 {
@@ -163,6 +164,8 @@ p {
   border-radius: 8px;
   font-weight: bold;
   cursor: pointer;
+  margin-top: 150px;
+
 }
 
 .btn:hover {
